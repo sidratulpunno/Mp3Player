@@ -1,5 +1,5 @@
 # Mp3Player
-Mp3Player made using java swing
+## Mp3Player made using java swing
 Digital music players have become an integral part of our
 lives, offering convenience and versatility. This paper describes
 the architecture and implementation of a Java Swing MP3
